@@ -1,13 +1,17 @@
- pypacks
-pyfiles is the collection of top packages for Python
 
-How to Install
+# PyFiles
 
-#Step 1
-git clone https://github.com/geekyfaahad/pypacks
+pypacks pyfiles is the collection of top packages for Python
 
-#Step 2
-cd pypacks
 
-#Step 3
-bash ./pypacks
+## Installation
+
+Install my-project with npm
+
+```bash
+Step 1: git clone https://github.com/geekyfaahad/pypacks
+
+Step 2 cd pypacks
+
+Step 3 bash ./pypacks
+```
