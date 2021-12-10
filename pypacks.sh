@@ -25,4 +25,5 @@ pip install antigravity
 pip install mysql-connector-python
 pip install pylunch
 pip install pyinstaller
+pip install py2exe
 exit
