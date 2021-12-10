@@ -15,6 +15,7 @@ pip install pytest
 pip install pywhatkit
 #pip install face-recognition
 pip install selenium
+pip install opencv-python
 pip install certifi
 pip install pyttsx3
 pip install emoji
