@@ -10,6 +10,7 @@ pip install seaborn
 pip install scikit-learn
 pip install setuptools
 pip install urllib3
+pip install tk
 pip install pytest
 pip install pywhatkit
 #pip install face-recognition
