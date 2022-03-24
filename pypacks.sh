@@ -2,7 +2,7 @@ pip install pip
 pip install --upgrade pip
 python -m pip install --upgrade pip
 pip install colorama
-pip install beautifulsoup4
+pip install requests
 pip install numpy
 pip install pandas
 pip install matplotlib
@@ -27,4 +27,9 @@ pip install mysql-connector-python
 pip install pylunch
 pip install pyinstaller
 pip install py2exe
+pip install bs4
+pip install lxml
+pip install PyPDF2
+pip install urllib
+pip install urllib3
 exit
