@@ -5,6 +5,7 @@ pip install colorama
 pip install requests
 pip install numpy
 pip install pandas
+pip install dhooks
 pip install matplotlib
 pip install seaborn
 pip install scikit-learn
