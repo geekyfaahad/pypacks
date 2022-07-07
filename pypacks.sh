@@ -32,4 +32,6 @@ pip install bs4
 pip install lxml
 pip install PyPDF2
 pip install urllib3
+pip install beautifulsoup4
+pip install gazpacho
 exit
